@@ -216,5 +216,7 @@ Desde el punto de vista de negocio, la solución permite optimizar campañas y r
 ## 👤 Autores
 
 Rebeca Prior Garrell – https://github.com/rebecaprg
-Jorge Martínez - 
-Kelly - 
+
+Jorge Martínez - https://github.com/jorgemd2698
+
+Kelly - https://github.com/Kelly481
