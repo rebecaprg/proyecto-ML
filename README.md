@@ -42,3 +42,61 @@ Project workflow:
 - Performance evaluation
 
 Special attention is given to Recall, as correctly identifying customers who are likely to churn is critical from a business perspective.
+
+---
+
+## 🗂️ Repository Structure
+```bash
+├── Notebook_FINAL.ipynb
+├── README.md
+└── data/ (optional)
+```
+---
+
+## 🛠️ Technologies Used
+
+- Python
+
+- Pandas
+
+- NumPy
+
+- Matplotlib / Seaborn
+
+- Scikit-learn
+
+- Jupyter Notebook / VS Code
+
+---
+
+## ▶️ How to Reproduce
+
+### 1️⃣ Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-repository.git
+```
+
+### 2️⃣ Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3️⃣ Run the notebook:
+
+```bash
+jupyter notebook Notebook_FINAL.ipynb
+```
+
+---
+
+## 📈 Key Results
+
+A classification model was developed to predict customer churn probability.
+
+Evaluated using Accuracy, Precision, Recall, and F1-score.
+
+The model enables identification of high-risk customers.
+
+From a business perspective, it supports targeted retention strategies and cost optimization.
