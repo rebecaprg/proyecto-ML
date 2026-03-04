@@ -174,11 +174,11 @@ El notebook `main.ipynb` ejecuta los siguientes 16 pasos en orden:
 
 ## 👥 Equipo / Team
 
-| Nombre | Rol |
+| Nombre / Name | Github |
 |---|---|
-| Kelly Escalante | EDA y análisis exploratorio |
-| Jorge Martinez | Preprocesado y feature engineering |
-| Rebeca Prior| Modelado, optimización y evaluación |
+| Kelly Escalante | https://github.com/Kelly481 |
+| Jorge Martinez | https://github.com/jorgemd2698 |
+| Rebeca Prior| https://github.com/rebecaprg |
 
 ---
 
