@@ -404,5 +404,5 @@ ML_Churn_Bancario/
 
 ---
 
-*Proyecto Final — Bootcamp de Data Science · Marzo 2025*  
-*Final Project — Data Science Bootcamp · March 2025*
+*Proyecto Final — Bootcamp de Data Science · Marzo 2026*  
+*Final Project — Data Science Bootcamp · March 2026*
