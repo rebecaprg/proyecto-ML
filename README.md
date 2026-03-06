@@ -1,4 +1,4 @@
-# 🏦 ML_Churn_Bancario
+# 🏦 ML_Churn_Prediction
 
 ## Predicción de Bajas de Clientes Bancarios | Bank Customer Churn Prediction
 
