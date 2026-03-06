@@ -1,4 +1,4 @@
-# 🏦 ML_Churn_Bancario
+# 🏦 ML_Churn_Prediction
 
 ## Predicción de Bajas de Clientes Bancarios | Bank Customer Churn Prediction
 
@@ -49,7 +49,7 @@ Se trata de un problema de **clasificación binaria supervisada**. El target (`E
 | Variable | Tipo | Descripción |
 |---|---|---|
 | `CreditScore` | Numérica | Puntuación crediticia del cliente |
-| `Geography` | Categórica | País (France / Germany / Spain) |
+| `Geography` | Categórica | País: Francia, Alemania, España |
 | `Gender` | Categórica | Género del cliente |
 | `Age` | Numérica | Edad del cliente |
 | `Tenure` | Numérica | Años como cliente del banco |
@@ -78,7 +78,7 @@ El notebook `main.ipynb` ejecuta los siguientes pasos en orden:
 |---|---|
 | 1 | Importación de librerías |
 | 2 | Carga y exploración inicial del dataset |
-| 3 | División Train / Test (80/20 estratificado) — **siempre primero** |
+| 3 | División Train / Test (80/20 estratificado) — |
 | 4 | Análisis de la variable objetivo |
 | 5 | EDA univariante |
 | 6 | EDA bivariante |
@@ -245,7 +245,7 @@ This is a **supervised binary classification** problem. The target (`Exited`) in
 | Variable | Type | Description |
 |---|---|---|
 | `CreditScore` | Numeric | Customer credit score |
-| `Geography` | Categorical | Country (France / Germany / Spain) |
+| `Geography` | Categorical | Country: France / Germany / Spain |
 | `Gender` | Categorical | Customer gender |
 | `Age` | Numeric | Customer age |
 | `Tenure` | Numeric | Years as a bank customer |
@@ -274,7 +274,7 @@ The `main.ipynb` notebook runs the following steps in order:
 |---|---|
 | 1 | Library imports |
 | 2 | Dataset loading and initial exploration |
-| 3 | Train / Test split (80/20 stratified) — **always first** |
+| 3 | Train / Test split (80/20 stratified) |
 | 4 | Target variable analysis |
 | 5 | Univariate EDA |
 | 6 | Bivariate EDA |
